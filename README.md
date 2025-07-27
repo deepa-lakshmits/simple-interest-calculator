@@ -7,3 +7,8 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 ## Author
 
 Deepalakshmi 
+## Output
+
+simple interest=p*t*r
+
+_© 2022 XYZ, Inc._
